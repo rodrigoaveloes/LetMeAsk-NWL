@@ -60,4 +60,6 @@ Para instalar o <LetMeAsk>, siga estas etapas:
   
   Routes com react router Dom.
   
+  #### LetMeAsk foi um projeto construido no evento com duração de uma semana de imersão de estudos da Rocket Seat chamada Next Level Week. Minha trilha escolhida foi reactJs  💖
+  
   
