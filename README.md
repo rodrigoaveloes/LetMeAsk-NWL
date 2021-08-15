@@ -10,7 +10,7 @@
 
 
 
-<img src="https://imgur.com/xc5KuCq"><img src="https://i.imgur.com/xc5KuCq.jpg" title="source: imgur.com" />
+<img src="https://i.imgur.com/xc5KuCq.jpg" title="source: imgur.com" />
 
 
  # Clique aqui para acessar o projeto 👉 <a href="https://letmeask-360b8.firebaseapp.com/"> LetMeAsk</a>
