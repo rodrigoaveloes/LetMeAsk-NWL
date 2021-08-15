@@ -33,7 +33,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando <LetMeAsk>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar o <LetMeAsk>, siga estas etapas:
 
 1. Clone o repositório
   
