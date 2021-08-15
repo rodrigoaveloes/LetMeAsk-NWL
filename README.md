@@ -40,7 +40,7 @@ Para instalar o <LetMeAsk>, siga estas etapas:
 3. Por último yarn start
   
   
-### Aprendizados 
+### Aprendizados 📖
   
   como integrar Typescript a um projeto react.<br>
   context (Auth) Api. <br>
