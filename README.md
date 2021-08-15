@@ -14,7 +14,7 @@
 > LetMeAsk foi pensado para criadores de conteúdo como uma solução para interagir a perguntas do público de forma democratica e em tempo real.
 > Os usuarios podem criar salas e gerar um código para que através dele o publico tenha acesso a sala e interaja. <br>(O login é feito através da conta google via Firebase)
 > O administrador tem controle de marcar perguntas como lidas, respondidas e até excluir.   
-### Ajustes e melhorias ✨
+### ✨ Ajustes e melhorias
 
 recursos adicionais adicionados por mim ao projeto 
 
@@ -40,7 +40,7 @@ Para instalar o <LetMeAsk>, siga estas etapas:
 3. Por último yarn start
   
   
-### Aprendizados 📖
+## 📖 Aprendizados
   
   como integrar Typescript a um projeto react.<br>
   context (Auth) Api. <br>
