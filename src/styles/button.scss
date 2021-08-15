@@ -38,3 +38,47 @@
     cursor: not-allowed;
   }
 }
+
+@media (max-width: 768px) {
+  .button {
+    height: 40px;
+    font-size: 12px;
+    margin: 6px;
+    width: 5px;
+    margin: 0 auto;
+
+    transition: filter 0.2s;
+    &:not(:disabled):hover {
+      transition: 0.2s;
+      filter: brightness(0.9);
+    }
+
+    img {
+      margin-right: 8px;
+    }
+
+    &.outlined {
+      height: 40px;
+      font-size: 12px;
+      margin: 6px;
+    }
+
+    &:not(:disabled):hover {
+      filter: brightness(0.9);
+    }
+
+    &:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+      height: 40px;
+      font-size: 12px;
+      margin: 6px;
+    }
+
+    button outlined {
+      font-size: 12px;
+      margin: 6px;
+      width: 5px;
+    }
+  }
+}
