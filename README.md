@@ -52,15 +52,21 @@ Para instalar o <LetMeAsk>, siga estas etapas:
   
   context (Auth) Api. <br>
   
-  React hooks (useState, useEffect, useHistory...)<br>
+  React hooks criamos um hook e utilizamos os  (useState, useEffect, useHistory...)<br>
   
   componentização.<br>
   
-  Firebase Realtime database configurando regras e integrando como o backend da aplicação.<br>
+  Firebase Realtime database configurando regras e integrando com a aplicação.<br>
   
-  Routes com react router Dom.
+  Routes com react router Dom.<br>
+  
+  deploy na nuvem com Firebase
+  
   
   #### LetMeAsk foi um projeto construido no evento com duração de uma semana de imersão de estudos da Rocket Seat chamada Next Level Week. Minha trilha escolhida foi reactJs  💖
+  
+  
   <a href="https://www.linkedin.com/in/rodrigo-avel%C3%B5es-de-paulo-a4a560208/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
+    
   
   
