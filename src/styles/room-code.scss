@@ -1,7 +1,7 @@
 .room-code {
-  height: 40px;
+  height: 2.5rem;
   border-radius: 8px;
-  overflow: hidden;
+  overflow-x: hidden;
   background: rgba(255, 255, 255, 0.336);
   border: 1px solid #835afd;
   cursor: pointer;
@@ -10,14 +10,14 @@
 
   div {
     background: #835afd;
-    padding: 10px;
+    padding: 0.625rem;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0 auto;
   }
 
   span {
-    display: block;
     align-self: center;
     flex: 1;
     padding: 0 16px 0 12px;
@@ -29,4 +29,21 @@
 .room-code:hover {
   filter: brightness(0.9);
   transition: 1s;
+}
+
+@media (max-width: 768px) {
+  span {
+    display: none;
+  }
+
+  .room-code {
+    margin: 6px auto;
+    justify-content: end;
+    border: none;
+  }
+  .copyImage {
+    max-width: 60px;
+  }
+  .room-title {
+  }
 }
