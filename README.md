@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
 
-<a href="https://imgur.com/aXySP7I"><img src="https://i.imgur.com/aXySP7I.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/xc5KuCq"><img src="https://i.imgur.com/xc5KuCq.jpg" title="source: imgur.com" /></a>
 
 
 
