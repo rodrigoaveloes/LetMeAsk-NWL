@@ -93,16 +93,16 @@ export function Room() {
 
    
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme} >
-      <Paper style={{height:"100vh"}}>
+      <Paper className="MuiPaper-root">
     <Container maxWidth="xl" id="page-room">
       <header>
 
         <div className="content">
-          <Link to="/"><img src={logoImg} alt="Letmeask" /></Link>
+          <Link to="/"><img className="logo" src={logoImg} alt="Letmeask" style={{maxWidth: "8.125rem"}} /></Link>
           <div className="responsive-menu">
           <RoomCode code={roomId} />
           <ExitToAppRoundedIcon className="logout" onClick={signOut} />
-          {/* <Dark /> */}
+         
           </div>               
         </div>
       </header>
@@ -165,22 +165,22 @@ export function Room() {
           })}
           
          
+      <img className="bg" src={illustration} alt="illustration" />
          
         </div>
        
         
        
+      
        
       </main>
-      <div>
-      <img className="bg" src={illustration} alt="illustration" />
-      </div>
       
 
           
     </Container>
     </Paper>
     </ThemeProvider>
+    
     
   );
 }
