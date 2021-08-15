@@ -44,10 +44,10 @@ Para instalar o <nome_do_projeto>, siga estas etapas:
   
 ### Aprendizados 
   
-  como integrar Typescript a um projeto react.
-  context (Auth) Api. 
-  React hooks (useState, useEffect, useHistory...)
-  componentização.
-  Firebase Realtime database configurando regras e integrando como o backend da aplicação.
+  como integrar Typescript a um projeto react.<br>
+  context (Auth) Api. <br>
+  React hooks (useState, useEffect, useHistory...)<br>
+  componentização.<br>
+  Firebase Realtime database configurando regras e integrando como o backend da aplicação.<br>
   
   
