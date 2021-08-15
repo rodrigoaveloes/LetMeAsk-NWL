@@ -79,12 +79,12 @@ export function AdminRoom() {
   return (
 
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme} >
-    <Paper style={{height:"100vh"}}>
-  <Container maxWidth="xl" id="page-room">
+      <Paper className="MuiPaper-root">
+    <Container maxWidth="xl" id="page-room">
     <div id="page-room">
       <header>
         <div className="content">
-          <img src={logoImg} alt="Letmeask" />
+          <img className="logo" src={logoImg} style={{maxWidth: "8.125rem"}} alt="Letmeask" />
           <div>
             <RoomCode code={roomId} />
             <Button isOutlined onClick={handleEndRoom}>Encerrar sala</Button>
@@ -135,12 +135,12 @@ export function AdminRoom() {
               </Question>
             );
           })}
+          <img className="bg" src={illustration} alt="illustration" />
         </div>
       </main>
     </div>
 
-         
-    <img className="bg" src={illustration} alt="illustration" />
+        
 
     </Container>
     </Paper>
