@@ -47,5 +47,6 @@ Para instalar o <LetMeAsk>, siga estas etapas:
   React hooks (useState, useEffect, useHistory...)<br>
   componentização.<br>
   Firebase Realtime database configurando regras e integrando como o backend da aplicação.<br>
+  Routes com react router Dom.
   
   
