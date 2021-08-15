@@ -1,4 +1,4 @@
-# LetMeAsk <blockquote class="imgur-embed-pub" lang="en" data-id="a/2edS1be" data-context="false" ><a href="//imgur.com/a/2edS1be"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+# LetMeAsk <a href="https://imgur.com/BOvFcyF"><img src="https://i.imgur.com/BOvFcyF.png" title="source: imgur.com" /></a>
 
 
 
