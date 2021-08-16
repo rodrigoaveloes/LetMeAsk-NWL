@@ -1,4 +1,4 @@
-# LetMeAsk <a href="https://letmeask-360b8.firebaseapp.com/"><img src="https://i.imgur.com/BOvFcyF.png" title="source: imgur.com" /></a>
+# LetMeAsk <a href="https://letmeask-rodrigo.web.app"><img src="https://i.imgur.com/BOvFcyF.png" title="source: imgur.com" /></a>
 
 
 
@@ -13,7 +13,7 @@
 <img src="https://i.imgur.com/xc5KuCq.jpg" title="source: imgur.com" />
 
 
- # Clique aqui para acessar o projeto 👉 <a href="https://letmeask-360b8.firebaseapp.com/"> LetMeAsk</a>
+ # Clique aqui para acessar o projeto 👉 <a href="https://letmeask-rodrigo.web.app"> LetMeAsk</a>
 > LetMeAsk foi pensado para criadores de conteúdo como uma solução para interagir a perguntas do público de forma democratica e em tempo real.
 > Os usuarios podem criar salas e gerar um código para que através dele o publico tenha acesso a sala e interaja. <br>(O login é feito através da conta google via Firebase)
 > O administrador tem controle de marcar perguntas como lidas, respondidas e até excluir.   
