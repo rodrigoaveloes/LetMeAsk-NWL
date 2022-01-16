@@ -41,9 +41,9 @@ Para instalar o <LetMeAsk>, siga estas etapas:
 
 1. Clone o repositório
   
-2. instale as dependências pelo terminal através do comando: yarn
+2. instale as dependências pelo terminal através do comando: yarn ou npm
   
-3. Por último yarn start
+3. Por último yarn start ou npm start
   
   
 ## 📖 Aprendizados
